@@ -1,5 +1,11 @@
-# PythonWeb_TolgaCatalpinar
+# i2iCell
   This is a web application demo, where users may check their balances in their operator.
+  
+# Screenshots
+
+![MainPage](Screenshots/MainPage.png)
+![Registration](Screenshots/Registration.png)
+![Balances](Screenshots/Balances.png)
 
                                              INSTALLATION GUIDE
                                                       
