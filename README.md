@@ -1,5 +1,5 @@
 # PythonWeb_TolgaCatalpinar
-
+  This is a web application demo, where users may check their balances in their operator.
 
                                              INSTALLATION GUIDE
                                                       
