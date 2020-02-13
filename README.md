@@ -1,7 +1,5 @@
 # PythonWeb_TolgaCatalpinar
 
-![box_image](https://user-images.githubusercontent.com/34005953/61232508-1b9fad00-a737-11e9-943a-9e3d7708912d.png)
-
 
                                              INSTALLATION GUIDE
                                                       
